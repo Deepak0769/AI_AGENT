@@ -1,0 +1,14 @@
+# Environment files (secrets)
+.env
+*.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Node.js dependencies
+node_modules/
+
+# Other common ignores
+__pycache__/
+*.log
